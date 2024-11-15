@@ -7,7 +7,7 @@ import org.springframework.context.MessageSource;
 /**
  * メッセージ管理 共通クラス
  * 
- * @author your name
+ * @author Kuroki Kazuma
  */
 public class MessageManager {
 
